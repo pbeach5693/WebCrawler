@@ -1,5 +1,3 @@
-To run this program, simply hit the run button on the IDE it's opned up on.
-
 There's 4 links included in the program, to change the site to be searched, put a '#' before the current link at the top (assigned to the url variable), and delete the '#' before a different link.
 
 Once the program runs, there will be a text file called output.txt which has the required information.
